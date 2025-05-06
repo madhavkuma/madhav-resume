@@ -1,0 +1,87 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #fff;
+    color: #000;
+    margin: 0;
+    padding: 40px;
+  }
+  
+  .resume {
+    max-width: 800px;
+    margin: auto;
+    border: 1px solid #000;
+    padding: 30px;
+  }
+  
+  .center {
+    text-align: center;
+    text-decoration: underline;
+    
+  }
+  
+  .header h2 {
+    margin: 0;
+  }
+  
+  a {
+    color: #0000ee;
+    text-decoration: none;
+  }
+  a:hover {
+    
+    background-image: linear-gradient(to right, #DA22FF 0%, #9733EE  51%, #DA22FF  100%)
+    
+
+  }
+  
+  
+  h3 {
+    text-decoration: underline;
+    margin-top: 20px;
+  }
+  
+  ul {
+    padding-left: 20px;
+  }
+  
+  ul li {
+    margin-bottom: 10px;
+    list-style-type: disc;
+  }
+  
+  section p {
+    margin: 8px 0;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+  }
+  
+  table td {
+    border: 1px solid #000;
+    padding: 8px;
+    vertical-align: top;
+  }
+  
+  .signature {
+    margin-top: 20px;
+    font-weight: bold;
+    text-align: right;
+    
+  }
+  .pacifico-regular {
+    text-align: right;
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+
+
+  
+  
+  
+  
